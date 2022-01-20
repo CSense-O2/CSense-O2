@@ -1,4 +1,4 @@
-CSense-O2 의 Github 입니다.
+감는 의 Github 입니다.
 ===
 Application | Link | Status | Version
 :---:|:---:|:---:|:---:
